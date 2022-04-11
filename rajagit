@@ -4,5 +4,9 @@ to pull from origin
 pavan sai naraharisetty
 pavan
 branch change
+<<<<<<< HEAD
 this is pavan
 hai hello
+=======
+hai hello people
+>>>>>>> pavan
